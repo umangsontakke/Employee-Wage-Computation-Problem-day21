@@ -2,7 +2,7 @@
 * Use case 6 
 */
 
-public class EmpWageBuilderUC1 {
+public class EmpWageBuilderUC6 {
 	
 	private static final int EMP_RATE_PER_HRS = 20;
 	private static final int NUM_OF_WORKING_DAYS = 20;
