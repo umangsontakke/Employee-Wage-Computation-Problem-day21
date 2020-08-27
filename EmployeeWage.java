@@ -1,3 +1,7 @@
+/**
+* Use case 6 
+*/
+
 public class EmpWageBuilderUC1 {
 	
 	private static final int EMP_RATE_PER_HRS = 20;
